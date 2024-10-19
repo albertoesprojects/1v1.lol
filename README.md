@@ -1,1 +1,1 @@
-Hit the download raw file for it to be invisible on go guardian it will say canvas and show the last tab you were on
+click index.html look on the right side where it says raw and click the button on the right of the raw button after go to your files and double click it for it to be invisible on go guardian it will say canvas and show the last tab you were on
